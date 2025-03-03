@@ -47,8 +47,6 @@ nav a:hover {
 .disabled-link {
     pointer-events: none;
     cursor: default;
-    text-decoration: none;
-    color: inherit;
 }
 
 main {
