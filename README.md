@@ -2,6 +2,7 @@
 # Lucky Shrubs: A Garden of Code 🌿💻
 
 Welcome to Lucky Shrubs, where landscaping meets web development! This project showcases a fictional homepage that blossoms with modern coding techniques.
+## 🔗 [Live Demo](https://joeysouzaao1.github.io/LuckyShrub/)
 
 ## 🚀 Quick Start Guide
 
