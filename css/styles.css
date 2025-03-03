@@ -44,10 +44,10 @@ nav a:hover {
     color: white;
     transform: scale(1.1);
 }
-.disabled-link {
+/* .disabled-link {
     pointer-events: none;
     cursor: default;
-}
+} */
 
 main {
     max-width: 1200px;
