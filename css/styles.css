@@ -29,7 +29,7 @@ nav li {
     margin: 0 15px;
 }
 
-nav a {
+nav button {
     text-decoration: none;
     color: #333;
     font-size: 18px;
@@ -39,15 +39,11 @@ nav a {
     transition: all 0.3s ease;
 }
 
-nav a:hover {
+nav button:hover {
     background-color: #4CAF50;
     color: white;
     transform: scale(1.1);
 }
-/* .disabled-link {
-    pointer-events: none;
-    cursor: default;
-} */
 
 main {
     max-width: 1200px;
